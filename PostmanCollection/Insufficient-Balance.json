@@ -1,0 +1,12 @@
+{
+    "request": {
+        "walletId": 1,
+        "productId": 1,
+        "reference": "TEST-INSUFFICIENT-001"
+    },
+    "response": {
+        "status": "SUCCESS",
+        "pin": "2035873229",
+        "traceId": "a9c1805f-94d4-4e86-93bd-b4639e66c0f9"
+    }
+}

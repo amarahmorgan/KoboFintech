@@ -1,0 +1,12 @@
+{
+    "request": {
+        "walletId": 5,
+        "productId": 1,
+        "reference": "TEST-DISABLED-001"
+    },
+    "response": {
+        "status": "SUCCESS",
+        "pin": "662619995",
+        "traceId": "4f211f1e-78b8-44f1-a296-bdbe68e97650"
+    }
+}

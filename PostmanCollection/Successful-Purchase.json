@@ -1,0 +1,12 @@
+{
+    "request": {
+        "walletId": 1,
+        "productId": 1,
+        "reference": "REF-001"
+    },
+    "response": {
+        "status": "SUCCESS",
+        "pin": "1573262937",
+        "traceId": "0d105115-1320-4148-9ae0-70b6c3e924d1"
+    }
+}
