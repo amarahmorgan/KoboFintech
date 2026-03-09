@@ -1,6 +1,6 @@
 {
     "request": {
-        "walletId": 1,
+        "walletId": 10,
         "productId": 1,
         "reference": "TEST-INSUFFICIENT-001"
     },
